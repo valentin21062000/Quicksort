@@ -1,0 +1,14 @@
+﻿'Quick-sort.exe' (Win32): Loaded 'C:\Users\valen\source\repos\Quick-sort\Debug\Quick-sort.exe'. Symbols loaded.
+'Quick-sort.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Quick-sort.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Quick-sort.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Quick-sort.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Quick-sort.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Quick-sort.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x3fe0 has exited with code 0 (0x0).
+'Quick-sort.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Quick-sort.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Quick-sort.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x3174 has exited with code 0 (0x0).
+The thread 0x54fc has exited with code 0 (0x0).
+The program '[4944] Quick-sort.exe' has exited with code 0 (0x0).
